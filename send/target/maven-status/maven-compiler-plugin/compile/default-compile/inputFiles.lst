@@ -1,0 +1,11 @@
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/Config/CrosConfig.java
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/SendApplication.java
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/controller/BaseController.java
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/controller/EmailController.java
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/dto/GenericResponseDTO.java
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/dto/MailDTO.java
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/exceptions/ApiException.java
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/exceptions/ErrorCode.java
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/service/JavaMailSenderService.java
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/service/MailSerivce.java
+/Users/franciscososa/Desktop/send/src/main/java/com/email/send/utils/Template.java
